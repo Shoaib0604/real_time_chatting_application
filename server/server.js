@@ -1,3 +1,6 @@
+//Client & Server
+// npm start
+
 const env = require("dotenv");
 env.config();
 
